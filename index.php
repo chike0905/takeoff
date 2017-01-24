@@ -57,6 +57,8 @@
         <img src="./img/top.jpg" alt="Take Off Rally">
     </div>
     <div id="about" class="clearfix py1 px3">
+      <h2>Take Off Rallyとは？</h2>
+      <h4 class="mx-auto col-5">SFC Take Off Rally は、SFC1期生の卒業から続く、伝統的なSFC生のための卒業記念パーティー・謝恩会です。今年度もSFC24期生のご卒業を盛大にお祝いします！</h4>
     </div>
     <div id="info" class="py1">
       <h2>開催概要</h2>
@@ -72,6 +74,19 @@
     <div id="fee" class="px2 py1 center">
       <h2>料金</h2>
       <h3>基本料金 10,000円</h3>
+      <table class="mx-auto col-5">
+        <caption>各種割引</caption>
+        <tr>
+            <th>早割<th><td>2月10日までの申し込みで500円割引</td>
+        </th>
+        <tr>
+            <th>グループ割<th><td>5人以上同時申し込みした人全員300円ずつ割引</td>
+        </th>
+        <tr>
+            <th>シェア割<th><td>Take Off Rally 2017 Facebookページをシェアで300円割引</td>
+        </th>
+      </table>
+      <p class="mx-auto col-5">各種割引併用可能！8900円〜で参加いただけます</p>
       <a href="https://docs.google.com/forms/d/e/1FAIpQLScNzsD9zTFm9r4F10DrxXaWPuabCY53ZufbdogSr26TaXN6oA/viewform?c=0&w=1" class="btn black bg-white">参加申し込み</a>
     </div>
     <div id="contact" class="py2 px3 center">
@@ -86,7 +101,7 @@
         }(document, 'script', 'facebook-jssdk'));
         </script>
         <div class="fb-page" data-href="https://www.facebook.com/takeoffrally2017/" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/takeoffrally2017/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/takeoffrally2017/">慶應義塾大学sfc Take Off Rally2017</a></blockquote></div>
-        Mail : takeoff[at]sfc.keio.ac.jp
+        <h3>Mail : takeoff[at]sfc.keio.ac.jp</h3>
     </div>
     </article>
     <footer class="clearfix py3">
