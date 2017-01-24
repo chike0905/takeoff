@@ -58,35 +58,35 @@
     </div>
     <div id="about" class="clearfix py1 px3">
       <h2>Take Off Rallyとは？</h2>
-      <h4 class="mx-auto col-5">SFC Take Off Rally は、SFC1期生の卒業から続く、伝統的なSFC生のための卒業記念パーティー・謝恩会です。今年度もSFC24期生のご卒業を盛大にお祝いします！</h4>
+      <h4 class="mx-auto col-10 sm-col-5">SFC Take Off Rally は、SFC1期生の卒業から続く、伝統的なSFC生のための卒業記念パーティー・謝恩会です。今年度もSFC24期生のご卒業を盛大にお祝いします！</h4>
     </div>
     <div id="info" class="py1">
       <h2>開催概要</h2>
-      <table class="mx-auto col-5">
+      <table class="mx-auto col-10 sm-col-5" border="1" bordercolor="white">
         <tr>
-            <th>日時<th><td>2017年3月23日(水)18:30~</td>
+            <th>日時</th><td>2017年3月23日(水)18:30~</td>
         </th>
         <tr>
-            <th>会場<th><td>クルーズ・クルーズ YOKOHAMA(スカイビル27階)</td>
+            <th>会場</th><td>クルーズ・クルーズ YOKOHAMA(スカイビル27階)</td>
         </th>
       </table>
     </div>
     <div id="fee" class="px2 py1 center">
       <h2>料金</h2>
       <h3>基本料金 10,000円</h3>
-      <table class="mx-auto col-5">
+      <table class="mx-auto col-10 sm-col-5" border="1" bordercolor="white">
         <caption>各種割引</caption>
         <tr>
-            <th>早割<th><td>2月10日までの申し込みで500円割引</td>
+            <th>早割</th><td>2月10日までの申し込みで500円割引</td>
         </th>
         <tr>
-            <th>グループ割<th><td>5人以上同時申し込みした人全員300円ずつ割引</td>
+            <th>グループ割</th><td>5人以上同時申し込みした人全員300円ずつ割引</td>
         </th>
         <tr>
-            <th>シェア割<th><td>Take Off Rally 2017 Facebookページをシェアで300円割引</td>
+            <th>シェア割</th><td>Take Off Rally 2017 Facebookページをシェアで300円割引</td>
         </th>
       </table>
-      <p class="mx-auto col-5">各種割引併用可能！8900円〜で参加いただけます</p>
+      <p class="mx-auto col-9 sm-col-5">各種割引併用可能！8900円〜で参加いただけます</p>
       <a href="https://docs.google.com/forms/d/e/1FAIpQLScNzsD9zTFm9r4F10DrxXaWPuabCY53ZufbdogSr26TaXN6oA/viewform?c=0&w=1" class="btn black bg-white">参加申し込み</a>
     </div>
     <div id="contact" class="py2 px3 center">
