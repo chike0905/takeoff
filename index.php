@@ -30,8 +30,8 @@
       }
     </style>
   </head>
-  <body class="white bg-black center">
-    <nav class="clearfix py2 bg-lighten-3 fixed sm-show">
+  <body class="white bg-blue center">
+    <nav class="clearfix py2 bg-darken-2 fixed sm-show">
       <div class="sm-flex center nowrap">
         <div class="flex-auto">
           <a href="#top" class="btn btn-primary black bg-white navbtn">Top</a>
@@ -50,11 +50,11 @@
         </div>
       </div>
     </nav>
-    <article id="top" class="py4">
+    <article id="top">
     <div class="target">
     </div>
     <div id="photo">
-        <img src="./img/top.jpg" alt="Take Off Rally">
+        <img src="./img/top.jpg" alt="Take Off Rally" style="width:100%">
     </div>
     <div id="about" class="clearfix py1 px3">
       <h2>Take Off Rallyとは？</h2>
@@ -77,7 +77,7 @@
       <table class="mx-auto col-10 sm-col-5" border="1" bordercolor="white">
         <caption>各種割引</caption>
         <tr>
-            <th>早割</th><td>2月10日までの申し込みで500円割引</td>
+            <th>早割</th><td>2月10日までの申し込みで1000円割引</td>
         </th>
         <tr>
             <th>グループ割</th><td>5人以上同時申し込みした人全員300円ずつ割引</td>
@@ -86,8 +86,8 @@
             <th>シェア割</th><td>Take Off Rally 2017 Facebookページをシェアで300円割引</td>
         </th>
       </table>
-      <p class="mx-auto col-9 sm-col-5">各種割引併用可能！8900円〜で参加いただけます</p>
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLScNzsD9zTFm9r4F10DrxXaWPuabCY53ZufbdogSr26TaXN6oA/viewform?c=0&w=1" class="btn black bg-white">参加申し込み</a>
+      <p class="mx-auto col-9 sm-col-5">各種割引併用可能！8400円〜で参加いただけます</p>
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLScNzsD9zTFm9r4F10DrxXaWPuabCY53ZufbdogSr26TaXN6oA/viewform?c=0&w=1" class="btn black bg-white rounded">参加申し込み</a>
     </div>
     <div id="contact" class="py2 px3 center">
       <h2>お問い合わせ</h2>
@@ -101,7 +101,7 @@
         }(document, 'script', 'facebook-jssdk'));
         </script>
         <div class="fb-page" data-href="https://www.facebook.com/takeoffrally2017/" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/takeoffrally2017/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/takeoffrally2017/">慶應義塾大学sfc Take Off Rally2017</a></blockquote></div>
-        <h3>Mail : takeoff[at]sfc.keio.ac.jp</h3>
+        <h3>Mail : takeoffrally2017[at]gmail.com</h3>
     </div>
     </article>
     <footer class="clearfix py3">
