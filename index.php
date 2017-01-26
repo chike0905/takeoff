@@ -30,20 +30,20 @@
       }
     </style>
   </head>
-  <body class="white bg-blue center">
+  <body class="white bg-navy center">
     <nav class="clearfix py2 bg-darken-2 fixed sm-show">
       <div class="sm-flex center nowrap">
         <div class="flex-auto">
           <a href="#top" class="btn btn-primary black bg-white navbtn">Top</a>
         </div>
         <div class="flex-auto">
-          <a href="#about" class="btn btn-primary black bg-white navbtn">Take Off Rallyとは?</a>
+          <a href="#about" class="btn btn-primary black bg-white navbtn">What's Take Off Rally?</a>
         </div>
         <div class="flex-auto">
-          <a href="#info" class="btn white navbtn">概要</a>
+          <a href="#info" class="btn white navbtn">About</a>
         </div>
         <div class="flex-auto">
-          <a href="#fee" class="btn white navbtn">料金</a>
+          <a href="#fee" class="btn white navbtn">Fee</a>
         </div>
         <div class="flex-auto">
           <a href="#contact" class="btn white navbtn">Contact</a>
