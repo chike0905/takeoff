@@ -64,7 +64,7 @@
       <h2>開催概要</h2>
       <table class="mx-auto col-10 sm-col-5" border="1" bordercolor="white">
         <tr>
-            <th>日時</th><td>2017年3月23日(水)18:30~</td>
+            <th>日時</th><td>2017年3月23日(水)18:00~</td>
         </th>
         <tr>
             <th>会場</th><td>クルーズ・クルーズ YOKOHAMA(スカイビル27階)</td>
