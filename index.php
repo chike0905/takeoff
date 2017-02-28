@@ -86,7 +86,7 @@
             <th>シェア割</th><td>Take Off Rally 2017 Facebookページをシェアで300円割引</td>
         </th>
         <tr>
-            <th>直前割</th><td>2月10日〜3月20日までの申し込みで500円割引</td>
+            <th>直前割</th><td>2月11日〜3月20日までの申し込みで500円割引</td>
         </th>
       </table>
       <p class="mx-auto col-9 sm-col-5">各種割引併用可能！8400円〜で参加いただけます</p>
